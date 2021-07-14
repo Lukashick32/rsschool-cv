@@ -11,3 +11,8 @@ I have no work experience but I aim to become a front-end developer. I have ever
 ### My skills:
 * HTML
 * CSS
+
+
+**English level:**
+* A2
+
