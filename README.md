@@ -1,1 +1,1 @@
-https://lukashick32.github.io/rsschool-cv/cv
+https://lukashick32.github.io/rsschool-cv/
